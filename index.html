@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>QR Code Verifier</title>
+  <script src="https://unpkg.com/html5-qrcode" type="text/javascript"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+      background: #f0f0f0;
+    }
+    h1 {
+      color: #333;
+    }
+    #reader {
+      width: 300px;
+      margin: auto;
+    }
+    #result {
+      margin-top: 20px;
+      padding: 10px;
+      border-radius: 8px;
+      font-size: 1.2em;
+      display: inline-block;
+    }
+    .valid {
+      background-color: #c8e6c9;
+      color: #256029;
+    }
+    .invalid {
+      background-color: #ffcdd2;
+      color: #c62828;
+    }
+  </style>
+</head>
+<body>
+  <h1>QR Code Verifier</h1>
+  <div id="reader"></div>
+  <div id="result">Loading QR data...</div>
+
+  <script>
+    let validCodes = {};
+    let usedCodes = new Set(JSON.parse(localStorage.getItem("usedCodes") || "[]"));
+    const resultDiv = document.getElementById("result");
+    let scanning = false;
+
+    // Try loading from localStorage cache first
+    try {
+      const cachedData = localStorage.getItem("qrCodeCache");
+      if (cachedData) {
+        validCodes = JSON.parse(cachedData);
+        resultDiv.innerHTML = "✅ Cached QR codes loaded. Ready to scan!";
+      }
+    } catch (e) {
+      console.warn("⚠️ Failed to parse cached QR code data");
+    }
+
+    // Try updating from server (if possible)
+    fetch('qr_codes.json')
+      .then(response => response.json())
+      .then(data => {
+        validCodes = data;
+        localStorage.setItem("qrCodeCache", JSON.stringify(data));
+        resultDiv.innerHTML = "✅ QR codes loaded from server. Ready to scan!";
+      })
+      .catch(error => {
+        console.error("❌ Failed to update QR codes from server:", error);
+        resultDiv.innerHTML += "<br>⚠️ Using cached data (Offline Mode)";
+        resultDiv.className = "invalid";
+      });
+
+    function handleQRCode(qrCode) {
+      if (scanning) return; // Prevent duplicate scans
+      scanning = true;
+
+      qrCode = qrCode.trim().toUpperCase();
+      console.log("🔍 Scanned:", qrCode);
+
+      if (usedCodes.has(qrCode)) {
+        resultDiv.innerHTML = `⛔ Already Used!`;
+        resultDiv.className = "invalid";
+      } else if (validCodes[qrCode]) {
+        const person = validCodes[qrCode];
+        resultDiv.innerHTML = `✅ Valid Ticket!<br>Name: ${person.name}<br>Roll: ${person.roll}`;
+        resultDiv.className = "valid";
+        usedCodes.add(qrCode);
+        localStorage.setItem("usedCodes", JSON.stringify([...usedCodes]));
+      } else {
+        resultDiv.innerHTML = `❌ Invalid QR Code: ${qrCode}`;
+        resultDiv.className = "invalid";
+      }
+
+      // Reset after 3 seconds
+      setTimeout(() => {
+        resultDiv.innerHTML = "Ready for next scan!";
+        resultDiv.className = "";
+        scanning = false;
+      }, 3000);
+    }
+
+    const qrScanner = new Html5Qrcode("reader");
+    const config = { fps: 10, qrbox: 250 };
+
+    qrScanner.start(
+      { facingMode: "environment" },
+      config,
+      qrCodeMessage => handleQRCode(qrCodeMessage),
+      error => {
+        // You can log scan errors here if needed
+      }
+    ).catch(err => {
+      resultDiv.innerHTML = `Camera Error: ${err}`;
+      resultDiv.className = "invalid";
+    });
+  </script>
+</body>
+</html>

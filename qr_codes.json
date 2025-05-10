@@ -1,0 +1,910 @@
+{
+  "4AA68CB": {
+    "name": "Muhammad Shuaib Hassan",
+    "roll": "BSSE51S25R045"
+  },
+  "B13720C": {
+    "name": "Abdurehman",
+    "roll": "BSSE51S25R043"
+  },
+  "CFC80E5": {
+    "name": "Arham Imtiaz",
+    "roll": "BSSE51S25R053"
+  },
+  "300E035": {
+    "name": "Hamza Zafar",
+    "roll": "BSSE51S25R047"
+  },
+  "329156A": {
+    "name": "Muhammad Saad",
+    "roll": "BSSE51S25R044"
+  },
+  "1610741": {
+    "name": "Asadullah",
+    "roll": "BSSE51S25R046"
+  },
+  "77AA21D": {
+    "name": "Shehroz",
+    "roll": "BSSE51S25R004"
+  },
+  "48FE580": {
+    "name": "Qais Ijaz",
+    "roll": "BSSE51S25R022"
+  },
+  "7D144F1": {
+    "name": "Azka Waheed",
+    "roll": "BSSE51S25R006"
+  },
+  "9B5B5D7": {
+    "name": "Ezza Fatima",
+    "roll": "BSSE51S25R012"
+  },
+  "3363FEA": {
+    "name": "Khadija Shah",
+    "roll": "BSSE51S25R016"
+  },
+  "051E0AC": {
+    "name": "Arfah Sarfaraz",
+    "roll": "BSSE51S25R021"
+  },
+  "92ED613": {
+    "name": "Ayesha Shahbaz",
+    "roll": "BSSE51S25R003"
+  },
+  "62537E1": {
+    "name": "Hamna Rashid",
+    "roll": "BSSE51S25R001"
+  },
+  "BCD3C0D": {
+    "name": "shameen Maryam",
+    "roll": "BSSE51S25R051"
+  },
+  "9BEA566": {
+    "name": "Mehrab khan",
+    "roll": "BSSE51S25R042"
+  },
+  "91DABFA": {
+    "name": "hafeez ullah",
+    "roll": "BSSE51S25R048"
+  },
+  "1B5E913": {
+    "name": "Maryam Saddique",
+    "roll": "BSSE51S25R005"
+  },
+  "B86964D": {
+    "name": "Maryam Asgar",
+    "roll": "BSSE51S25R024"
+  },
+  "A236653": {
+    "name": "Iqra Hussain",
+    "roll": "BSSE51S25R051"
+  },
+  "9AC3FC5": {
+    "name": "Abuzar Gabol",
+    "roll": "BSSE51S25R029"
+  },
+  "95090AF": {
+    "name": "Maqsood Ahmad",
+    "roll": "BSSE51S25R018"
+  },
+  "28CF128": {
+    "name": "Subhan Ali",
+    "roll": "BSSE51S25R049"
+  },
+  "47F83D2": {
+    "name": "Raja Aryan Ahmar",
+    "roll": "BSSE51S25R034"
+  },
+  "6872AE5": {
+    "name": "Andleeb Nosheen",
+    "roll": "BSSE51S25S010"
+  },
+  "442B3A0": {
+    "name": "Ali Ahmad",
+    "roll": "BSSE51S25S041"
+  },
+  "DB237F9": {
+    "name": "Zaid Hassan",
+    "roll": "BSSE51S25S019"
+  },
+  "9F59499": {
+    "name": "Abdul Hadi",
+    "roll": "BSSE51F24R051"
+  },
+  "27E3F98": {
+    "name": "Shahmeer Hassan",
+    "roll": "BSSE51F24R003"
+  },
+  "16F20D4": {
+    "name": "Muhammad Aosaf",
+    "roll": "BSSE51F24R015"
+  },
+  "63E9D5C": {
+    "name": "Muhammad Uffan",
+    "roll": "BSSE51F24R045"
+  },
+  "3A8E6D3": {
+    "name": "Abdul Wahab",
+    "roll": "BSSE51F24R044RE"
+  },
+  "FA157A7": {
+    "name": "Huzaifah Iftkhar",
+    "roll": "BSSE51F24R050"
+  },
+  "015F0C9": {
+    "name": "Alishba",
+    "roll": "BSSE51F24R042"
+  },
+  "10A260B": {
+    "name": "Yousaf Raza",
+    "roll": "BSSE51F24R052"
+  },
+  "0F74D65": {
+    "name": "Fariha Chaudhary",
+    "roll": "BSSE51F24R006"
+  },
+  "34D9FE1": {
+    "name": "Fakhar Muhammad",
+    "roll": "BSSE51F24R041"
+  },
+  "78B9D7C": {
+    "name": "Ruqaiya Saqib",
+    "roll": "BSSE51F24S010"
+  },
+  "CC15429": {
+    "name": "Fatima Zahid",
+    "roll": "BSSE51F24S047"
+  },
+  "DC5D7CD": {
+    "name": "Esha Khalid",
+    "roll": "BSSE51F24S095"
+  },
+  "FBD7C2B": {
+    "name": "Tehreem Fatima",
+    "roll": "BSSE51F24S024"
+  },
+  "776BFDF": {
+    "name": "Sila Haral",
+    "roll": "BSSE51F24S046"
+  },
+  "EA4D91A": {
+    "name": "Imran Hassan",
+    "roll": "BSSE51F24S014"
+  },
+  "E41481D": {
+    "name": "Tehreem Afzal",
+    "roll": "BSSE51F24S051"
+  },
+  "776678E": {
+    "name": "Minahil Sajid",
+    "roll": "BSSE51F24S048"
+  },
+  "89DC2D7": {
+    "name": "Mouzma Batool",
+    "roll": "BSSE51F24S013"
+  },
+  "7C23990": {
+    "name": "Aliyan Asim",
+    "roll": "BSSE51F24S003"
+  },
+  "6BDD573": {
+    "name": "Mateen Zafar",
+    "roll": "BSSE51F24S015"
+  },
+  "6067357": {
+    "name": "Tehreem Fatima",
+    "roll": "BSSE51F24S004"
+  },
+  "E962A2C": {
+    "name": "Haseeb Ur Rehman",
+    "roll": "BSSE51F24S027"
+  },
+  "84CBF54": {
+    "name": "Maheen Fatima",
+    "roll": "BSSE51F24S001"
+  },
+  "F5E9141": {
+    "name": "Sabahat Fatima",
+    "roll": "BSSE51F24S048"
+  },
+  "38ADAB4": {
+    "name": "Sawaira Aamir",
+    "roll": "BSSE51F24S106"
+  },
+  "5473FE1": {
+    "name": "Malaika Najib",
+    "roll": "BSSE51F24S087"
+  },
+  "B2D4AAE": {
+    "name": "Aaifa",
+    "roll": "BSSE51F24S097"
+  },
+  "71ADCD2": {
+    "name": "Areeb Asim",
+    "roll": "BSSE51F24S071"
+  },
+  "55D9635": {
+    "name": "Alina Zahid",
+    "roll": "BSSE51F24S074"
+  },
+  "99B607A": {
+    "name": "Hafsa Aneel",
+    "roll": "BSSE51F24S062"
+  },
+  "4436676": {
+    "name": "Meerab Imran",
+    "roll": "BSSE51F24S099"
+  },
+  "6B8191B": {
+    "name": "Kiran Fatima",
+    "roll": "BSSE51F24S068"
+  },
+  "DBEB2E3": {
+    "name": "Laiba Fatima",
+    "roll": "BSSE51F24S084"
+  },
+  "4D4145E": {
+    "name": "Areeba Shabbir",
+    "roll": "BSSE51F24S066"
+  },
+  "34837AA": {
+    "name": "Hadisa Zahra",
+    "roll": "BSSE51F24S065"
+  },
+  "07526B1": {
+    "name": "Taha Shahid",
+    "roll": "BSSE51F24S085"
+  },
+  "2831E04": {
+    "name": "M Hasnain",
+    "roll": "BSSE51F24S105"
+  },
+  "F3C16D4": {
+    "name": "Hamza Tariq",
+    "roll": "BSSE51F24S104"
+  },
+  "3DBAA1C": {
+    "name": "Ahmad Raza",
+    "roll": "BSSE51F24S072"
+  },
+  "1A80247": {
+    "name": "Hamza Bilal",
+    "roll": "BSSE51F24S094"
+  },
+  "983B2C5": {
+    "name": "Muhammad Huzaifa",
+    "roll": "BSSE51F24S078"
+  },
+  "564EC63": {
+    "name": "Sayed Asgar Ali Shah",
+    "roll": "BSSE51F24S089"
+  },
+  "684FDA2": {
+    "name": "Tehreem Asad",
+    "roll": "BSSE51F24S069"
+  },
+  "B76C60A": {
+    "name": "Dua Zulfiqar",
+    "roll": "BSSE51F24S059"
+  },
+  "54D0D91": {
+    "name": "Maryam Suleman",
+    "roll": "BSSE51F24S044"
+  },
+  "F144BD6": {
+    "name": "Areeba Kareem",
+    "roll": "BSSE51F24S057"
+  },
+  "1B5ACDA": {
+    "name": "Fatima Rabia",
+    "roll": "BSSE51F24S058"
+  },
+  "9994551": {
+    "name": "Mahnoor Munnawar",
+    "roll": "BSSE51F24S073"
+  },
+  "DDD46B9": {
+    "name": "Faiqa Noreen",
+    "roll": "BSSE51F24S092"
+  },
+  "D7576A9": {
+    "name": "Dua Eman",
+    "roll": "BSSE51F24S090"
+  },
+  "65DF992": {
+    "name": "M Zaeem Mughal",
+    "roll": "BSSE51S24R032"
+  },
+  "763D4E0": {
+    "name": "M Zubair Kamran",
+    "roll": "BSSE51S24R030"
+  },
+  "29867F9": {
+    "name": "Abdul Rehman",
+    "roll": "BSSE51S24R010"
+  },
+  "F739144": {
+    "name": "M Afaq",
+    "roll": "BSSE51S24R012"
+  },
+  "19E0A74": {
+    "name": "Asad Ali",
+    "roll": "BSSE51S24R008"
+  },
+  "BA205BE": {
+    "name": "Ammar Ahmad",
+    "roll": "BSSE51S24R009"
+  },
+  "4E4D025": {
+    "name": "Abdur Rafy",
+    "roll": "BSSE51S24R019"
+  },
+  "8872B03": {
+    "name": "Atique Ur Rehman",
+    "roll": "BSSE51S24R051"
+  },
+  "F4EA51C": {
+    "name": "Abyeha",
+    "roll": "BSSE51S24R031"
+  },
+  "36AB3C5": {
+    "name": "Tehreem Fatima",
+    "roll": "BSSE51S24R004"
+  },
+  "374CF81": {
+    "name": "Kaynat Kashmala",
+    "roll": "BSSE51S24R041"
+  },
+  "FFF60FB": {
+    "name": "Bisma Iftikhar",
+    "roll": "BSSE51S24R039"
+  },
+  "C549269": {
+    "name": "Qurat Ul Ain",
+    "roll": "BSSE51S24R029RE"
+  },
+  "6651A5F": {
+    "name": "Haram Fatima",
+    "roll": "BSSE51S24R034"
+  },
+  "18F0376": {
+    "name": "Hadia Ahmed",
+    "roll": "BSSE51S24R021"
+  },
+  "E099C83": {
+    "name": "Eman Fatima",
+    "roll": "BSSE51S24R025"
+  },
+  "F83532F": {
+    "name": "Mirza Ghulam Saqlain",
+    "roll": "BSSE51S24R029"
+  },
+  "FC223DA": {
+    "name": "Muhib Ullah Khan",
+    "roll": "BSSE51S24R015"
+  },
+  "018673B": {
+    "name": "Saleem Khan",
+    "roll": "BSSE51S24R048"
+  },
+  "1389855": {
+    "name": "Hassan Faisal",
+    "roll": "BSSE51S24R014"
+  },
+  "136E2B9": {
+    "name": "M Essa Khan",
+    "roll": "BSSE51S24R045"
+  },
+  "8452F12": {
+    "name": "Eman Fatima Farukh",
+    "roll": "BSSE51S24R020"
+  },
+  "7FFBDCC": {
+    "name": "Sheheryar Yousaf",
+    "roll": "BSSE51F23R019"
+  },
+  "E8D646F": {
+    "name": "Ali Ubaid",
+    "roll": "BSSE51F23R023"
+  },
+  "E728283": {
+    "name": "Zain sadique",
+    "roll": "BSSE51F23R061"
+  },
+  "0C35842": {
+    "name": "Hammad Ahmad",
+    "roll": "BSSE51F23R059"
+  },
+  "DC68640": {
+    "name": "Ali Ahmad",
+    "roll": "BSSE51F23R030"
+  },
+  "4307817": {
+    "name": "Hasnain Abdullah",
+    "roll": "BSSE51F23R058"
+  },
+  "24D57A3": {
+    "name": "Uzair Afzal",
+    "roll": "BSSE51F23S077"
+  },
+  "A64E77F": {
+    "name": "Talha Usman",
+    "roll": "BSSE51F23R065"
+  },
+  "372B0DB": {
+    "name": "Ali Ijaz",
+    "roll": "BSSE51F23R037"
+  },
+  "1FACFB9": {
+    "name": "Gull Ahmad",
+    "roll": "BSSE51F23R043"
+  },
+  "90B68BD": {
+    "name": "Abdul Wahab",
+    "roll": "BSSE51F23R007"
+  },
+  "B37B0B4": {
+    "name": "Basharat Iqbal",
+    "roll": "BSSE51F23R062"
+  },
+  "A7BE284": {
+    "name": "Rizwan",
+    "roll": "BSSE51F23R042"
+  },
+  "73AD16D": {
+    "name": "Aoun Muhammad",
+    "roll": "BSSE51F23R004"
+  },
+  "D03673B": {
+    "name": "Zaid Mehmood",
+    "roll": "BSSE51F23R035"
+  },
+  "53AE35E": {
+    "name": "Sherjeel Ahmad",
+    "roll": "BSSE51F23S010"
+  },
+  "DA77BF3": {
+    "name": "Ayesha Noor",
+    "roll": "BSSE51F23R001"
+  },
+  "592A757": {
+    "name": "Sadia Ferzeen",
+    "roll": "BSSE51F23R011"
+  },
+  "2FBD3EE": {
+    "name": "Khadija Hasnain",
+    "roll": "BSSE51F23R032"
+  },
+  "885BC44": {
+    "name": "Aneeza Arshad",
+    "roll": "BSSE51F23R022"
+  },
+  "865359D": {
+    "name": "Mahnoor",
+    "roll": "BSSE51F23R006"
+  },
+  "36B9728": {
+    "name": "shahzib Ali",
+    "roll": "BSSE51F23R031"
+  },
+  "864E270": {
+    "name": "Komal",
+    "roll": "BSSE51F23R017"
+  },
+  "F18AE95": {
+    "name": "Tayyab Ali shah",
+    "roll": "BSSE51F23S047"
+  },
+  "ECBA367": {
+    "name": "Muhammad Qasim",
+    "roll": "BSSE51F23S049"
+  },
+  "09B0AD8": {
+    "name": "Aleena Faiz",
+    "roll": "BSSE51F23S003"
+  },
+  "139EBE0": {
+    "name": "seerat fatima",
+    "roll": "BSSE51F23S041"
+  },
+  "A967715": {
+    "name": "laiba mubashar",
+    "roll": "BSSE51F23S059"
+  },
+  "A1382CC": {
+    "name": "anoosha shahid",
+    "roll": "BSSE51F23S014"
+  },
+  "951442B": {
+    "name": "Hajra azam",
+    "roll": "BSSE51F23S044"
+  },
+  "B264DCC": {
+    "name": "Muhammad Muneeb",
+    "roll": "BSSE51F23S009"
+  },
+  "A6C354F": {
+    "name": "Umme Rubab",
+    "roll": "BSSE51F23S037"
+  },
+  "40788C0": {
+    "name": "Muhammad Kashif",
+    "roll": "BSSE51F23S045"
+  },
+  "81C48F5": {
+    "name": "Obaid Ur Rahman Zia",
+    "roll": "BSSE51F23S016"
+  },
+  "1CED072": {
+    "name": "Muhammad Adeel",
+    "roll": "BSSE51F23S050"
+  },
+  "0AA504B": {
+    "name": "Hafiz Saim",
+    "roll": "BSSE51F23S046"
+  },
+  "62708D7": {
+    "name": "saib hassan",
+    "roll": "BSSE51F23S033"
+  },
+  "11F5573": {
+    "name": "Abu Bakar",
+    "roll": "BSSE51F23S036"
+  },
+  "DDD76F5": {
+    "name": "sabiha qayyum",
+    "roll": "BSSE51F23S018"
+  },
+  "77ECB07": {
+    "name": "aqsa riaz",
+    "roll": "BSSE51F23S011"
+  },
+  "308E56C": {
+    "name": "tehzeeb shahid",
+    "roll": "BSSE51F23S048"
+  },
+  "387C50E": {
+    "name": "Ahsan Ayub",
+    "roll": "BSSE51F23S028"
+  },
+  "8D12C6D": {
+    "name": "Mahnoor jahangir",
+    "roll": "BSSE51F23S035"
+  },
+  "310BCD3": {
+    "name": "Aiza zia",
+    "roll": "BSSE51F23S008"
+  },
+  "F503040": {
+    "name": "Amna razzaq",
+    "roll": "BSSE51F23S030"
+  },
+  "ED4642F": {
+    "name": "Zainab Rafaqat",
+    "roll": "BSSE51F23S005"
+  },
+  "9B3147C": {
+    "name": "Huma zainab",
+    "roll": "BSSE51F23S038"
+  },
+  "082AFB6": {
+    "name": "Urwa Iftikhar",
+    "roll": "BSSE51F23S024"
+  },
+  "217D0F2": {
+    "name": "Nayab Afzal",
+    "roll": "BSSE51F23S026"
+  },
+  "756B147": {
+    "name": "Saiqa Rehman",
+    "roll": "BSSE51F23S043"
+  },
+  "22EB821": {
+    "name": "Basharat Ahmed",
+    "roll": "BSSE51F23S065"
+  },
+  "DAEB471": {
+    "name": "Alishba Tariq",
+    "roll": "BSSE51F23S083"
+  },
+  "C7351F7": {
+    "name": "Ali Akbar",
+    "roll": "BSSE51F23S089"
+  },
+  "3F0F710": {
+    "name": "Muhammad Usman",
+    "roll": "BSSE51F23S082"
+  },
+  "0119980": {
+    "name": "Abdullah Amjad",
+    "roll": "BSSE51F23S067"
+  },
+  "5FDCC54": {
+    "name": "Monibah Irshad",
+    "roll": "BSS51F23S069"
+  },
+  "4E01FC3": {
+    "name": "Tehseen Ul Hassan",
+    "roll": "BSSE51F23S061"
+  },
+  "0EC3922": {
+    "name": "Javeria Sarwar",
+    "roll": "BSSE51F23S094"
+  },
+  "6190762": {
+    "name": "Waiza",
+    "roll": "BSSE51F23S079"
+  },
+  "F8FD168": {
+    "name": "Raja Abdul Rehman",
+    "roll": "BSSE51F23S063"
+  },
+  "9DDA32A": {
+    "name": "Ahtisham Hyder",
+    "roll": "BSSE51F23S064"
+  },
+  "0D77C09": {
+    "name": "M Hassan Khalid",
+    "roll": "BSSE51F23S080"
+  },
+  "5EE9A2D": {
+    "name": "Mubeen Sahar",
+    "roll": "BSSE51F22R002"
+  },
+  "8A92D16": {
+    "name": "Aaila Rehman",
+    "roll": "BSSE51F22R004"
+  },
+  "B004B3F": {
+    "name": "Fatima Zahra",
+    "roll": "BSSE51F22R003"
+  },
+  "5605E44": {
+    "name": "Ayesha Sarwar",
+    "roll": "BSSE51F22R001"
+  },
+  "4121EAA": {
+    "name": "Aqeel Abbas",
+    "roll": "BSSE51F22R035"
+  },
+  "FE528C4": {
+    "name": "Shayan Nawaz",
+    "roll": "BSSE51F22R047"
+  },
+  "1256812": {
+    "name": "Hammad Masud",
+    "roll": "BSSE51F22R044"
+  },
+  "6EAC4FC": {
+    "name": "Musawir Abbas",
+    "roll": "BSSE51F22R045"
+  },
+  "E8EB6A2": {
+    "name": "Huzaifa Bilal",
+    "roll": "BSSE51F22R033"
+  },
+  "4761139": {
+    "name": "Muhammad Kashif",
+    "roll": "BSSE51F22R036"
+  },
+  "9A060EE": {
+    "name": "Zeeshan Haider",
+    "roll": "BSSE51F22R027"
+  },
+  "95E8BA0": {
+    "name": "Hammad Mehmood",
+    "roll": "BSSE51F22R016"
+  },
+  "C7532A7": {
+    "name": "Muhammad waqas",
+    "roll": "BSSE51F22R011"
+  },
+  "A3608CA": {
+    "name": "Areeba Mumtaz",
+    "roll": "bsse51f22S018"
+  },
+  "6661A8E": {
+    "name": "Nida in Nasr",
+    "roll": "bsse51f22S004"
+  },
+  "74790AA": {
+    "name": "Shajeel Habib",
+    "roll": "BSSE51F22S041"
+  },
+  "FDC5BC3": {
+    "name": "Sheraz Hussain",
+    "roll": "BSSE51F22S042"
+  },
+  "044D36B": {
+    "name": "Zain Ali",
+    "roll": "BSSE51F22S037"
+  },
+  "D52F25A": {
+    "name": "M Arslan",
+    "roll": "BSSE51F22S017"
+  },
+  "8E20041": {
+    "name": "Abdul Nafay",
+    "roll": "BSSE51F22S086"
+  },
+  "D47D225": {
+    "name": "Ali Ramzan",
+    "roll": "BSSE51F22S050"
+  },
+  "C2D8C25": {
+    "name": "Najaf Ikram",
+    "roll": "BSSE51F22S002"
+  },
+  "315FB8B": {
+    "name": "Saira ishaq",
+    "roll": "bsse51f22S021"
+  },
+  "F693253": {
+    "name": "fareeha Mushtaq",
+    "roll": "bsse51f22S047"
+  },
+  "DEB560C": {
+    "name": "Hafsa Ali",
+    "roll": "BSSE51F22R039"
+  },
+  "380DD6D": {
+    "name": "Rida Fatima",
+    "roll": "BSSE51F22S054"
+  },
+  "0F055A6": {
+    "name": "Izza Naseem",
+    "roll": "BSSE51F22S082"
+  },
+  "488B6E2": {
+    "name": "Alina Naseem",
+    "roll": "BSSE51F22S093"
+  },
+  "D851E3B": {
+    "name": "M Afaq",
+    "roll": "BSSE51F22S094"
+  },
+  "29C90CD": {
+    "name": "Arslan Hamid",
+    "roll": "BSSE51F22S095"
+  },
+  "0B62738": {
+    "name": "Eman Fatima",
+    "roll": "BSSE51F22S079"
+  },
+  "D884301": {
+    "name": "Mishaal Fatima",
+    "roll": "BSSE51F22S064"
+  },
+  "AA24B5B": {
+    "name": "Kinza Sehar",
+    "roll": "BSSE51F22S070"
+  },
+  "0783725": {
+    "name": "Sheema Jamal",
+    "roll": "BSSE51F22S060"
+  },
+  "0C830F7": {
+    "name": "Faheem",
+    "roll": "BSSE51F21S036"
+  },
+  "F27115A": {
+    "name": "M. Nouman",
+    "roll": "BSSE51F21S043"
+  },
+  "281AD5A": {
+    "name": "Hammad",
+    "roll": "BSSE51F21S006"
+  },
+  "CEEB158": {
+    "name": "Musa",
+    "roll": "BSSE51F21S020"
+  },
+  "ADBDE5A": {
+    "name": "Aqsa",
+    "roll": "BSSE51F21S021"
+  },
+  "A44A321": {
+    "name": "Tayyaba",
+    "roll": "BSSE51F21S023"
+  },
+  "C00617F": {
+    "name": "Arooj",
+    "roll": "BSSE51F21S024"
+  },
+  "D190BC8": {
+    "name": "Ume habiba",
+    "roll": "BSSE51F21S029"
+  },
+  "7B61906": {
+    "name": "Ariba",
+    "roll": "BSSE51F21S027"
+  },
+  "01325FB": {
+    "name": "Huma Noor",
+    "roll": "BSSE51F21S030"
+  },
+  "DA2F3B3": {
+    "name": "Sadia",
+    "roll": "BSSE51F21S048"
+  },
+  "2517FCD": {
+    "name": "Hafsa",
+    "roll": "BSSE51F21S045"
+  },
+  "A83EDE8": {
+    "name": "Anas",
+    "roll": "BSSE51F21S033"
+  },
+  "120879B": {
+    "name": "Hajira",
+    "roll": "BSSE51F21S039"
+  },
+  "5B0539D": {
+    "name": "Ramzan",
+    "roll": "BSSE51F21S013"
+  },
+  "B3C1BAC": {
+    "name": "Mudassar",
+    "roll": "BSSE51F21S035"
+  },
+  "B534712": {
+    "name": "Ali husnain",
+    "roll": "BSSE51F21S037"
+  },
+  "4C1EB31": {
+    "name": "Mamoon",
+    "roll": "BSSE51F21S015"
+  },
+  "953F68A": {
+    "name": "Usman",
+    "roll": "BSSE51F20S043RE"
+  },
+  "871B0E7": {
+    "name": "Zain Ali",
+    "roll": "BSSE51F21S038"
+  },
+  "57DBE2B": {
+    "name": "Mahnoor",
+    "roll": "BSSE51F21S011"
+  },
+  "32F1F55": {
+    "name": "Areeba",
+    "roll": "BSSE51F21S002"
+  },
+  "1B99F40": {
+    "name": "Misbah Mehmood",
+    "roll": "BSSE51F21R014"
+  },
+  "7FBCEF4": {
+    "name": "Noor Fatima",
+    "roll": "BSSE51F21R022"
+  },
+  "F29312F": {
+    "name": "Adeela Azam",
+    "roll": "BSSE51F21R017"
+  },
+  "0E59B34": {
+    "name": "M. Nummad",
+    "roll": "BSSE51F21R016"
+  },
+  "CD2A0AD": {
+    "name": "Sami ul haq",
+    "roll": "BSSE51F21R047"
+  },
+  "56447C3": {
+    "name": "M. Zakria",
+    "roll": "BSSE51F21R020"
+  },
+  "E50DC21": {
+    "name": "M. Farooq",
+    "roll": "BSSE51F21R028"
+  },
+  "91CC5AF": {
+    "name": "Chamman Abbas",
+    "roll": "BSSE51F21R006"
+  },
+  "3208D6B": {
+    "name": "Fahad Ali",
+    "roll": "BSSE51F21R036"
+  }
+}
